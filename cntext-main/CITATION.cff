@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'cntext: a Python tool for text mining'
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Xudong
+    family-names: Deng
+    email: thunderhit@qq.com
+    affiliation: Harbin Institute of Technology
+  - given-names: Peng
+    family-names: Nan
+    affiliation: Harbin Normal University
+repository: 'https://github.com/hiDaDeng/cntext'
+abstract: >-
+  cntext is a text analysis package that provides
+  semantic distance and semantic projection based on
+  word embedding models. Besides,cntext also provides
+  the traditional methods, such as word count ,
+  readability, document similarity, sentiment
+  analysis, etc. 
+keywords:
+  - text mining
+  - text analysi
+  - social science
+  - management science
+  - semantic analysis
+license: MIT
+version: 1.7.9
+date-released: '2022-09-09'
